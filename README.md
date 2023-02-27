@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, my name is Ivan!
 
-<!--
-**IvanSiat/IvanSiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧔 About me
+- Software Developer / Data Analyst
+- Recent graduate of the BSc in Applied Computer Science program from the University of Winnipeg
+- I hope to one day join a team as a Junior Developer/Engineer or Junior Data Analyst and be a mentor to others in the future as I grow!
+- Winnipeg, MB
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools
+Languages: Java, Python, R, C#, SQL, JavaScript, HTML, CSS
+Frameworks and Libraries: ASP.NET/.NET, Django, Node.JS, Express, Bootstrap, Spring Boot, React.js
+Developer Tools: Git, Visual Studio, Eclipse, Microsoft SQL Studio, R Studio, BigQuery, Data Structures
+Data Analysis: Tableau, Data Manipulation, Cleaning, & Visualization, Kaggle, Spreadsheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Personal Links
+- Portfolio: https://tinyurl.com/ivanweb
+- LinkedIn: https://www.linkedin.com/in/ivan-christian-siat-2aa6831a8/
+- Email: siativan@yahoo.com
