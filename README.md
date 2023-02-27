@@ -7,10 +7,10 @@
 - Winnipeg, MB
 
 ## 🛠️ Skills and Tools
-Languages: Java, Python, R, C#, SQL, JavaScript, HTML, CSS
-Frameworks and Libraries: ASP.NET/.NET, Django, Node.JS, Express, Bootstrap, Spring Boot, React.js
-Developer Tools: Git, Visual Studio, Eclipse, Microsoft SQL Studio, R Studio, BigQuery, Data Structures
-Data Analysis: Tableau, Data Manipulation, Cleaning, & Visualization, Kaggle, Spreadsheets
+- Languages: Java, Python, R, C#, SQL, JavaScript, HTML, CSS
+- Frameworks and Libraries: ASP.NET/.NET, Django, Node.JS, Express, Bootstrap, Spring Boot, React.js
+- Developer Tools: Git, Visual Studio, Eclipse, Microsoft SQL Studio, R Studio, BigQuery, Data Structures
+- Data Analysis: Tableau, Data Manipulation, Cleaning, & Visualization, Kaggle, Spreadsheets
 
 ## 🔗 Personal Links
 - Portfolio: https://tinyurl.com/ivanweb
