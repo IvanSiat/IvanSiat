@@ -3,7 +3,7 @@
 ## 🧔 About me
 - Software Developer / Data Analyst
 - Recent graduate of the BSc in Applied Computer Science program from the University of Winnipeg
-- I hope to one day join a team as a Junior Developer/Engineer or Junior Data Analyst and be a mentor to others in the future as I grow!
+- I am currently a Junior Frontend Developer for PolySense Solutions
 - Winnipeg, MB
 
 ## 🛠️ Skills and Tools
